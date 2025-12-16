@@ -1,0 +1,16 @@
+langchain-community
+pypdf
+faiss-cpu
+langchain
+python-dotenv
+langchain-openai
+beautifulsoup4      #scrap website data
+langchain
+streamlit
+ollama
+langchain_groq
+fastapi
+uvicorn
+transformers
+langchain_huggingface
+langchain_huggingface_hub
